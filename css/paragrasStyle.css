@@ -1,0 +1,42 @@
+.highlightText {
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+
+.highlightListItem {
+	text-align: center;
+	margin-top: 15px;
+	font-size: 1.2rem;
+}
+
+.researchLines {
+	text-align: center;
+	font-size: 1.6rem;
+	font-weight: 600;
+}
+
+.researchLines li {
+	margin-bottom: 20px;
+}
+
+.teachersTable {
+	border: none;
+}
+
+.tablesHead th {
+	padding: 10px;
+	border: 1px solid aliceblue;
+}
+
+.btnDownload {
+	padding: 5px;
+	border-radius: 10px;
+	color: aliceblue;
+	/* background-color: darkblue; */
+}
+
+td {
+	padding: 7px;
+	border: 1px solid aliceblue;
+}
