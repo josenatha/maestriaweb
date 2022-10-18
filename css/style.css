@@ -15,7 +15,7 @@ body {
   margin: 3.5rem 0 0 0;
   font-family: "Poppins", sans-serif;
   font-size: 0.938rem;
-  background: linear-gradient(90deg, #1844a4 0%, #051650 50%);
+  background: linear-gradient(90deg,#afb7ca9c 0%, #63657088 50%);
   color: #fff;
 }
 
@@ -61,12 +61,18 @@ button {
   font-size: 2.25rem !important;
   margin-bottom: 2rem;
   text-align: center;
+  color: #000c32;
 }
 
 .container {
   max-width: 968px;
   margin-left: 1.5rem;
   margin-right: 1.5rem;
+ 
+}
+.buton{
+    margin-bottom: 40px;
+    padding-top: 10px;
 }
 
 .grid {
@@ -81,7 +87,7 @@ button {
 
 .header {
   width: 100%;
-  background: linear-gradient(90deg,#1844a4 0%, #051650 50%);
+  background: linear-gradient(90deg,#284b97 0%, #182d72 50%);
   position: fixed;
   top: 0;
   left: 0;
@@ -193,18 +199,25 @@ button {
   position: relative;
   padding-top: 2rem;
 }
+.wite{
+    background-color: white;
+    color: #000732;
+}
 
 .homeimg {
   height: 250px;
   width: 100%;
   justify-self: center;
+  border-radius: 10%;
 }
 
 .hometitle {
+    font-family: Century;
   font-size: 4rem;
   font-weight: 900;
   line-height: 109%;
   margin-bottom: 1rem;
+  color: #00030ad7;
 }
 
 .homedes {
@@ -241,6 +254,7 @@ button {
   height: 5px;
   border-radius: 0.5rem;
 }
+s
 
 /*BUTTONS*/
 .button {
@@ -335,19 +349,22 @@ button {
     display: block;
 }
 
-.productsubtitle {
+/* .productsubtitle {
     font-size: 1rem;
     margin-bottom: .5rem;
     text-align: center;
-}
+} */
 
 .producttitle,
 .productprice {
-    color: #fff;
+    color:  #000732;
     font-weight: 500;
     font-size: .938rem;
     margin-bottom: 2rem;
   text-align: center;
+}
+.col{
+    color:whitesmoke;
 }
 
 

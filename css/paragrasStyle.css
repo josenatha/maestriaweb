@@ -26,17 +26,31 @@
 
 .tablesHead th {
 	padding: 10px;
-	border: 1px solid aliceblue;
+	border: 1px solid rgb(22, 70, 112);
 }
 
 .btnDownload {
 	padding: 5px;
 	border-radius: 10px;
-	color: aliceblue;
+	color: rgb(186, 140, 207);
 	/* background-color: darkblue; */
 }
 
 td {
 	padding: 7px;
-	border: 1px solid aliceblue;
+	border: 1px solid rgb(42, 96, 141);
+}
+table{
+		color: #000732;
+			
+	
+}
+.centrar-listas {
+	text-align: center;
+}
+
+.centrar-listas ul,
+.centrar-listas ol {
+	text-align: left;
+	display: inline-block;
 }
